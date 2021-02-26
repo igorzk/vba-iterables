@@ -1,0 +1,8 @@
+{
+    "nome": "iterables",
+    "versao": "0.1.0",
+    "descricao": "vba functions that make dealing with iterables easier",
+    "planilha": "exemplo",
+    "autor": "igorzk",
+    "licenca": "ISC"
+}
